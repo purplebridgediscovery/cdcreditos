@@ -1,0 +1,128 @@
+{
+    "credito_autos": {
+      "credito_1": {
+        "credito": "25.000,00",
+        "parcelas": "441,57",
+        "tempo": 70,
+        "entrada": "1.099,82"
+      },
+      "credito_2": {
+        "credito": "35.000,00",
+        "parcelas": "618,19",
+        "tempo": 70,
+        "entrada": "1.539,74"
+      },
+      "credito_3": {
+        "credito": "45.000,00",
+        "parcelas": "794,82",
+        "tempo": 70,
+        "entrada": "1.979,67"
+      },
+      "credito_4": {
+        "credito": "55.000,00",
+        "parcelas": "971,44",
+        "tempo": 70,
+        "entrada": "2.419,59"
+      },
+      "credito_5": {
+        "credito": "70.000,00",
+        "parcelas": "1.236,37",
+        "tempo": 70,
+        "entrada": "3.079,47"
+      }
+    },
+      "credito_pesados": {
+        "credito_1": {
+          "credito": "100.000,00",
+          "parcelas": "889,72",
+          "tempo": 150,
+          "entrada": "4.419,22"
+        },
+        "credito_2": {
+          "credito": "150.000,00",
+          "parcelas": "1.334,58",
+          "tempo": 150,
+          "entrada": "6.628,83"
+        },
+        "credito_3": {
+          "credito": "200.000,00",
+          "parcelas": "1.779,44",
+          "tempo": 150,
+          "entrada": "8.838,44"
+        },
+        "credito_4": {
+          "credito": "250.000,00",
+         "parcelas": "2.224,3",
+          "tempo": 150,
+          "entrada": "1.1048,05"
+        },
+        "credito_5": {
+          "credito": "300.000,00",
+          "parcelas": "2.669,16",
+          "tempo": 150,
+          "entrada": "13.257,66"
+        }
+      },
+        "imoveis": {
+          "credito_1": {
+            "credito": "50.000,00",
+            "parcelas": "453,70",
+            "tempo": 140,
+            "entrada": "2.286,95"
+          },
+          "credito_2": {
+            "credito": "100.000,00",
+            "parcelas": "4573,90",
+            "tempo": 140,
+            "entrada": "907,40"
+          },
+          "credito_3": {
+            "credito": "120.000,00",
+            "parcelas": "864,12",
+            "tempo": 180,
+            "entrada": "5.235,12"
+          },
+          "credito_4": {
+            "credito": "150.000,00",
+            "parcelas": "1.080,15",
+            "tempo": 180,
+            "entrada": "6.543,90"
+          },
+          "credito_5": {
+            "credito": "175.000,00",
+            "parcelas": "1.260,18",
+            "tempo": 180,
+            "entrada": "7.634,55"
+          },
+          "credito_6": {
+            "credito": "200.000,00",
+            "parcelas": "1.440,20",
+            "tempo": 180,
+            "entrada": "8.725,20"
+          },
+          "credito_7": {
+            "credito": "250.000,00",
+            "parcelas": "1.800,25",
+            "tempo": 180,
+            "entrada": "10.906,50"
+          },
+          "credito_8": {
+            "credito": "300.000,00",
+            "parcelas": "2.160,30",
+            "tempo": 180,
+            "entrada": "13.087,80"
+          },
+          "credito_9": {
+            "credito": "370.000,00",
+            "parcelas": "2.664,37",
+            "tempo": 180,
+            "entrada": "16.141,62"
+          },
+          "credito_10": {
+            "credito": "500.000,00",
+            "parcelas": "3.600,50",
+            "tempo": 180,
+            "entrada": "21.813,50"
+          }
+        }
+      }

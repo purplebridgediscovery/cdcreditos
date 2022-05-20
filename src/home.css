@@ -1,0 +1,301 @@
+body{
+    position:relative
+}
+html{
+    width: 100vw;
+    overflow-x: hidden;
+    
+}
+#apresentacao{
+    background-image: url(../src/components/pazani.jpg) ;
+    background-size: 100vw 100vw;
+    margin-top: -12px;
+    margin-left: -12px;
+    margin-right: -5px;
+    width: 100vw;
+    height: 70vw;
+    
+}
+#texto_apresentacao{
+    height: 35vw;
+    background-color: rgba(28, 18, 49, 0.05);
+    width: 40vw;
+    position:relative;
+    display: inline-block;
+    backdrop-filter: blur(6px);
+    margin-top: -3vw;
+}
+h1{
+    font-weight: 350;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 8vw;
+    color: #fff;
+    margin-top: -1vw;
+    margin-left: 20px;
+}
+h2{
+    font-weight: 350;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 4vw ;
+    color: #fff;
+    margin-top: -8vw;
+    margin-left: 20px;
+}
+#button{
+    position:absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 30vw;
+    height: 5vw;
+    border: 5px solid #ffff;
+    background-color: transparent;
+    color: #fff;
+    display: inline-flex;
+    border-radius:15px;
+    font-size: 1.98vw;
+    margin-left: 20px;
+}
+p{
+    font-weight: 500;
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+#logoBut{
+    width: 6vw;
+    height: 3.5vw;
+    display: inline-flex;
+}
+#escolhas{
+    background-color: #8ECAE6;
+    margin-left: -7px;
+    width: 100vw;
+    height: 70vw;
+}
+
+
+
+
+
+
+
+
+
+/* Amostragem */
+#tudo_cred{
+    width: 100vw;
+    margin-left: 0vw;
+    margin-top: -5vw;
+}
+#amostragem{
+    background-color: #023047;
+    margin-left: -12px;
+    margin-right: -5px;
+    width: 100vw;
+    height: 70vw;
+    
+}
+#button2{
+    position:relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 75vw;
+    height: 10vw;
+    background-color: transparent;
+    color: #fff;
+    display: inline-flex;
+    border-radius: 15px;
+    font-size: 3.5vw;
+    margin-top:3vw;
+    margin-left: 3vw;
+
+}
+#logoBut2{
+    margin-left: 15vw;
+    margin-top: -2px;
+    width: 28vw;
+    height: 12vw;
+    display: inline-flex;
+}
+#vantagens_text_1{
+    display: inline-flex;
+    width: 49vw;
+    height: 50vw;
+
+}
+#texto_vantagens_1{
+    position: absolute;
+    margin-top: 21vw;
+    margin-left: 10vw;
+}
+#texto_vantagens_1 h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 7vw;
+    margin-bottom: -2vw;
+}
+#p_img_1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vw;
+    color:#fff;
+}
+
+#img_1{
+    position: relative;
+    margin-top: 5vw;
+    width: 40vw;
+    height:40vw;
+}
+#vantagens_text_1:hover > #img_1 {
+    animation: rotate 2s;
+}
+@keyframes rotate {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(359deg);
+    }
+}
+#vantagens_text_2{
+    position: absolute;
+    display: inline-flex;
+    width: 48vw;
+    height: 50vw;
+
+}
+#texto_vantagens_2{
+    position: absolute;
+    width: 20vw;
+    margin-top: 19vw;
+    margin-left: 13vw;
+}
+#texto_vantagens_2 h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 7vw;
+    margin-bottom: -2vw;
+}
+#p_img_2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vw;
+    color:#fff;
+}
+
+#img_2{
+    position: relative;
+    margin-top: 15vw;
+    width: 25vw;
+    height:20vw;
+    margin-left: -5vw;
+}
+#vantagens_text_2:hover  #img_2 {
+    animation: rotate2 1s ;
+}
+@keyframes rotate2 {
+    from{
+        width: 25vw;
+        height: 2vw;
+    }
+    to{
+        width: 25vw;
+        height: 20vw;
+    }
+}
+
+
+.Group_3{ 
+    margin-top: 18vw;
+    margin-left: 2.5vw;
+        display:inline-flex ;
+        width: 30vw ;
+        height:30vw;
+        
+    }
+    #PREDIO_1{
+    position: absolute;
+    width: 20vw;
+    height: 23vw;
+    margin-left: 1vw;
+    
+    background: url(./midias_pages/PREDIO.png);
+    background-size: 20vw;
+    /* mix-blend-mode: luminosity; */
+    }
+    
+    #PREDIO_2{
+    
+    position: absolute;
+    width: 25vw;
+    height: 15vw;
+    margin-top: 8vw;
+    margin-left: 6vw;
+    background: url(./midias_pages/house-6954632__340.webp);
+    background-size: 25vw;
+    }
+    #Group_1:hover > #PREDIO_1 {
+        width: 30vw;
+        height: 33vw;
+        background-size: 30vw;
+        margin-left: -10vw;
+    }
+    #Group_1:hover > #PREDIO_2 {
+        width: 35vw;
+        height: 25vw;
+        background-size: 35vw;
+        margin-top: 13vw;
+        margin-left: -3vw;
+    }
+
+    #PESADOS_1{
+        position: absolute;
+        width: 30vw;
+        height: 15vw;
+        margin-top: 5VW;
+        
+        background: url(./midias_pages/1.png);
+        background-size: 30vw;
+        /* mix-blend-mode: luminosity; */
+        }
+        #Group_2:hover > #PESADOS_1 {
+            width: 45vw;
+            height: 20vw;
+            background-size: 45vw;
+            margin-top: 10vw;
+            margin-left: -8vw;
+        }
+
+        #CARROS_1{
+            position: absolute;
+            width: 30vw;
+            height: 15vw;
+            margin-top: 5VW;
+            
+            background: url(./midias_pages/carros.png);
+            background-size: 30vw;
+            /* mix-blend-mode: luminosity; */
+            }
+            #Group_3:hover > #CARROS_1 {
+                width: 45vw;
+                height: 22vw;
+                background-size: 45vw;
+                margin-top: 10vw;
+                margin-left: -5vw;
+            }
+
+            #button3{
+                position:relative;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                width: 70vw;
+                height: 10vw;
+                background-color: transparent;
+                color: #fff;
+                display: inline-flex;
+                border-radius: 15px;
+                font-size: 3.5vw;                margin-top:3vw;
+                margin-left: 20vw;
+            }
+            #logoBut3{
+                margin-left:1vw;
+                margin-top: -2px;
+                width: 28vw;
+                height: 12vw;
+                display: inline-flex;
+            }
