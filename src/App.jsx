@@ -9,7 +9,7 @@ import { Home } from "./home.jsx";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
       <Route  path="/" exact element= {<Home/>}  />
       <Route path="/pesados" exact element = {<Pesados/>} />

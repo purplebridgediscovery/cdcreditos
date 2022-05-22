@@ -10,6 +10,18 @@ import {Header} from "../components/heder";
 
 export default class Autos extends Component {
     render() {
+      function tamanho() {
+        var largura = window.innerWidth;
+        if ( 800 < largura ){
+          return 3;
+        }
+        else if (800 > largura > 500){
+          return 2;
+        }
+        else{
+          return 1;
+        }
+      }
  const creditos={
       "credito_1": {
         "credito": "25.000,00",
@@ -43,7 +55,7 @@ export default class Autos extends Component {
       }
     };
         const settings = {
-            slidesToShow: 3,
+            slidesToShow: tamanho(),
             slidesToScroll: 1,
             autoplay: true,
             autoplaySpeed: 2000,

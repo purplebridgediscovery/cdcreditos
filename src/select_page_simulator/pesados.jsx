@@ -9,6 +9,18 @@ import {Header} from "../components/heder";
 
 export default class Pesados extends Component {
     render() {
+        function tamanho() {
+            var largura = window.innerWidth;
+            if ( 800 < largura ){
+              return 3;
+            }
+            else if (800 > largura > 500){
+              return 2;
+            }
+            else{
+              return 1;
+            }
+          }
  const creditos={
     "credito_1": {
         "credito": "100.000,00",
@@ -42,7 +54,7 @@ export default class Pesados extends Component {
       }
     };
         const settings = {
-            slidesToShow: 3,
+            slidesToShow: tamanho(),
             slidesToScroll: 1,
             autoplay: true,
             autoplaySpeed: 2000,
@@ -55,7 +67,7 @@ export default class Pesados extends Component {
               <div id= "div2">
                 <div className="flip-container">
                     <div className="flipper">
-                        <div className="front">
+                        <div className="front" id ="pesados">
                             <h1> CREDITO
                             <h2>R${creditos.credito_1.credito}</h2>
                             </h1>
@@ -75,7 +87,7 @@ export default class Pesados extends Component {
               <div id= "div2">
               <div className="flip-container">
                     <div className="flipper">
-                        <div className="front">
+                        <div className="front" id ="pesados" >
                         <h1> CREDITO
                             <h2>R${creditos.credito_2.credito}</h2>
                             </h1>
@@ -94,7 +106,7 @@ export default class Pesados extends Component {
               <div id= "div2">
               <div className="flip-container">
                     <div className="flipper">
-                        <div className="front">
+                        <div className="front" id ="pesados">
                         <h1> CREDITO
                             <h2>R${creditos.credito_3.credito}</h2>
                             </h1>
@@ -114,7 +126,7 @@ export default class Pesados extends Component {
               <div id= "div2">
               <div className="flip-container">
                     <div className="flipper">
-                        <div className="front">
+                        <div className="front" id ="pesados">
                         <h1> CREDITO
                             <h2>R${creditos.credito_4.credito}</h2>
                             </h1>
@@ -134,7 +146,7 @@ export default class Pesados extends Component {
               <div id= "div2">
               <div className="flip-container">
                     <div className="flipper">
-                        <div className="front">
+                        <div className="front" id ="pesados">
                         <h1> CREDITO
                             <h2>R${creditos.credito_5.credito}</h2>
                             </h1>
