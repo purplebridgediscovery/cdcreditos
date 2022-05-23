@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cdcreditos/static/css/main.f2c053b0.css",
-    "main.js": "/cdcreditos/static/js/main.b4eb6966.js",
+    "main.js": "/cdcreditos/static/js/main.492e90a7.js",
     "static/js/787.1422965d.chunk.js": "/cdcreditos/static/js/787.1422965d.chunk.js",
     "static/media/pazani.jpg": "/cdcreditos/static/media/pazani.ffb87e7f7bf9c4a2b317.jpg",
     "static/media/imoveis.png": "/cdcreditos/static/media/imoveis.df040dc351833c66828f.png",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/cdcreditos/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cdcreditos/index.html",
     "main.f2c053b0.css.map": "/cdcreditos/static/css/main.f2c053b0.css.map",
-    "main.b4eb6966.js.map": "/cdcreditos/static/js/main.b4eb6966.js.map",
+    "main.492e90a7.js.map": "/cdcreditos/static/js/main.492e90a7.js.map",
     "787.1422965d.chunk.js.map": "/cdcreditos/static/js/787.1422965d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2c053b0.css",
-    "static/js/main.b4eb6966.js"
+    "static/js/main.492e90a7.js"
   ]
 }
