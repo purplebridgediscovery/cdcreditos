@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/cdcredito/static/css/main.0d70c256.css",
-    "main.js": "/cdcredito/static/js/main.74203522.js",
-    "static/js/787.1422965d.chunk.js": "/cdcredito/static/js/787.1422965d.chunk.js",
-    "static/media/pazani.jpg": "/cdcredito/static/media/pazani.ffb87e7f7bf9c4a2b317.jpg",
-    "static/media/imoveis.png": "/cdcredito/static/media/imoveis.df040dc351833c66828f.png",
-    "static/media/PREDIO.png": "/cdcredito/static/media/PREDIO.671bca1013eebc51eaf1.png",
-    "static/media/carros.png": "/cdcredito/static/media/carros.41e3521ed2464553bfba.png",
-    "static/media/house-6954632__340.webp": "/cdcredito/static/media/house-6954632__340.000eb93c3a35a33f523e.webp",
-    "static/media/logo.png": "/cdcredito/static/media/logo.aae70a829952af56bc0c.png",
-    "static/media/1.png": "/cdcredito/static/media/1.35c414828aa6124bf1cb.png",
-    "static/media/slick.svg": "/cdcredito/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/cdcredito/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/cdcredito/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/cdcredito/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/cdcredito/index.html",
-    "main.0d70c256.css.map": "/cdcredito/static/css/main.0d70c256.css.map",
-    "main.74203522.js.map": "/cdcredito/static/js/main.74203522.js.map",
-    "787.1422965d.chunk.js.map": "/cdcredito/static/js/787.1422965d.chunk.js.map"
+    "main.css": "/cdcreditos/static/css/main.f2c053b0.css",
+    "main.js": "/cdcreditos/static/js/main.b4eb6966.js",
+    "static/js/787.1422965d.chunk.js": "/cdcreditos/static/js/787.1422965d.chunk.js",
+    "static/media/pazani.jpg": "/cdcreditos/static/media/pazani.ffb87e7f7bf9c4a2b317.jpg",
+    "static/media/imoveis.png": "/cdcreditos/static/media/imoveis.df040dc351833c66828f.png",
+    "static/media/PREDIO.png": "/cdcreditos/static/media/PREDIO.671bca1013eebc51eaf1.png",
+    "static/media/carros.png": "/cdcreditos/static/media/carros.41e3521ed2464553bfba.png",
+    "static/media/house-6954632__340.webp": "/cdcreditos/static/media/house-6954632__340.000eb93c3a35a33f523e.webp",
+    "static/media/logo.png": "/cdcreditos/static/media/logo.aae70a829952af56bc0c.png",
+    "static/media/1.png": "/cdcreditos/static/media/1.35c414828aa6124bf1cb.png",
+    "static/media/slick.svg": "/cdcreditos/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cdcreditos/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cdcreditos/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cdcreditos/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cdcreditos/index.html",
+    "main.f2c053b0.css.map": "/cdcreditos/static/css/main.f2c053b0.css.map",
+    "main.b4eb6966.js.map": "/cdcreditos/static/js/main.b4eb6966.js.map",
+    "787.1422965d.chunk.js.map": "/cdcreditos/static/js/787.1422965d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d70c256.css",
-    "static/js/main.74203522.js"
+    "static/css/main.f2c053b0.css",
+    "static/js/main.b4eb6966.js"
   ]
 }
